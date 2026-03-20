@@ -22,5 +22,3 @@ El proyecto está construido aplicando buenas prácticas de desarrollo para mant
 2. Por motivos de seguridad, el archivo de conexión a la base de datos no está incluido en el código público. Para que funcione, debes crear un proyecto en la consola de Firebase, habilitar Firestore, descargar tu propio archivo `google-services.json` y pegarlo dentro de la carpeta `app/`.
 3. Abre el proyecto en Android Studio, espera a que se sincronicen las dependencias de Gradle y ejecútalo.
 
-## Autor
-Desarrollado por Ismael.
