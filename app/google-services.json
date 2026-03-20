@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555331478785",
+    "project_id": "sales-910b5",
+    "storage_bucket": "sales-910b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555331478785:android:8f7c0fb687902f1a722700",
+        "android_client_info": {
+          "package_name": "com.itvo.sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHmqmhKMIDx7djq22xQi9fBWCIY3gzBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
